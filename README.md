@@ -3,7 +3,7 @@
 ## Get started
 
 - composer install
-- php artisan migrate*
+- php artisan migrate* or import laravel.sql
 - php artisan storage:link
 - php artisan key:generate
 
