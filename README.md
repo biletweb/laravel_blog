@@ -3,8 +3,9 @@
 ## Get started
 
 - composer install
-- php artisan migrate* or import laravel.sql
+- php artisan migrate* or import laravel.sql**
 - php artisan storage:link
 - php artisan key:generate
 
-*After doing the migration, add the admin role to the roles table, id should be 1, then add the user role
+*After doing the migration, add the admin role to the roles table, id should be 1, then add the user role<br>
+**Login information (email: admin@gmail.com, password: 123123123)
